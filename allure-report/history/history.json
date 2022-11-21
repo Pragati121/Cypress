@@ -1,0 +1,1 @@
+{"e372cc90f31b3e45865f42a4665f8c09":{"statistic":{"failed":1,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"ebb09a1858542c20","status":"failed","statusDetails":"Syntax error, unrecognized expression: //input[@name=\"user-name\"]","time":{"start":1669021743160,"stop":1669021744453,"duration":1293}}]}}
